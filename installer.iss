@@ -26,4 +26,4 @@ OutputBaseFilename=Twilight_Imperium_IV_Installer
 [Files]
 Source: "Mods\*"; DestDir: "{app}"; Flags: recursesubdirs createallsubdirs
 ; WICHTIG: Das Icon mit kopieren, damit die Deinstallation ein Icon hat
-Source: "installer\pablo.ico"; DestDir: "{app}"; Flags: ignoreversion
+Source: "installer\ti4.ico"; DestDir: "{app}"; Flags: ignoreversion
