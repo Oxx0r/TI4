@@ -16,5 +16,5 @@ jobs:
           embed-url: "${{ github.event.release.html_url }}"
           embed-description: "**Version:** `${{ github.event.release.tag_name }}`\n\n${{ github.event.release.body }}"
           embed-color: 11027200
-          embed-image-url: "https://github.com/Oxx0r/TI4/raw/main/Mods/Workshop/1288687076.png"
+          embed-image-url: "https://github.com/Oxx0r/TI4/raw/main/Mods/Images/httpssteamusercontentaakamaihdnetugc9180410353502922996A6B2E95F41F29E3933B3E54DC35A7D201570616.png"
           embed-footer-text: "Release, you say?"
