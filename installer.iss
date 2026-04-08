@@ -11,7 +11,7 @@ DisableDirPage=no
 UsePreviousAppDir=no
 
 ; Pfade zu den Dateien im Unterordner "installer"
-SetupIconFile=installer\pablo.ico
+SetupIconFile=installer\ti4.ico
 WizardImageFile=installer\banner.bmp
 WizardSmallImageFile=installer\logo_small.bmp
 InfoBeforeFile=installer\readme_vorher.txt
