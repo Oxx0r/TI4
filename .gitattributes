@@ -1,0 +1,5 @@
+# Erzwinge LF für alle Textdateien
+* text=auto eol=lf
+
+# Speziell für JSON, falls gewünscht
+*.json text eol=lf
