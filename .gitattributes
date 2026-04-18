@@ -1,5 +1,2 @@
-# Erzwinge LF für alle Textdateien
-* text=auto eol=lf
-
-# Speziell für JSON, falls gewünscht
-*.json text eol=lf
+# Git soll JSON-Dateien nicht als Text behandeln und Zeilenendungen ignorieren
+*.json -text
